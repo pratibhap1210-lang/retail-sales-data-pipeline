@@ -25,3 +25,7 @@ Top-performing products
 Profit by customer segment
 
 Includes slicers for dynamic filtering.
+
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
